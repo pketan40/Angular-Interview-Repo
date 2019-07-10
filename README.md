@@ -252,3 +252,6 @@ This coding test will judge your understanding of architecture for a large appli
 3. How do you create application to use scss?
 4. How to inject base href?
 5. How would you extract webpack config from angular cli project?
+
+### usefull link 
+ 1. https://www.codeproject.com/Articles/1169073/Angular-Interview-Questions
